@@ -1,7 +1,7 @@
 # Wentao Wu
 
 <img src="https://raw.githubusercontent.com/wwtsjtu/wwtsjtu.github.io/master/img/1.jpeg" width="120" height="165" alt="" align= "right"/>
-
+<span style="font-family: Georgia, serif;">
 **Status:** Ph.D. Candiate (Advisor: Prof. [Weidong Zhang](https://automation.sjtu.edu.cn/wdzhang))
 <br/>
 **Institute:** [Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)
