@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Wentao Wu (吴文涛)"
-description              : "Shanghai Jiao Tong University (上海交通大学)，Department of Automation (自动化系) "
+description              : "Department of Automation, Shanghai Jiao Tong University"
 repository               : "wwtsjtu/wwt.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "https://analytics.google.com/analytics/WGp4lBIAAAAJ&hl=zh-CN&oi=sra"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
