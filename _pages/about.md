@@ -64,6 +64,30 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [      ](https://github.com), A, B, C, **CVPR 2020**
+## Review Papers
+彭周华，吴文涛，王丹， 刘陆. "多无人艇集群协同控制研究进展与未来趋势." in 中国舰船研究, vol. 61, no. 1, pp. 51-64, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-Pengzhouhua-中国舰船研究.pdf)
+## Journal Papers
+- W. Wu, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*. "Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach." in IEEE Trans. Syst. Man, Cybern., Syst., Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] | [PDF] | [Video-Sim]
+- Yibo Zhang, Di Wu, Peng Cheng, W. Wu, and Weidong Zhang*. "Robust Adaptive Fault-tolerant Control for Path Maneuvering of Autonomous Surface Vehicles with Actuator Faults Based on the Noncooperative Game Strategy." in Ocean. Eng., Dec. 2023, Accepted. [中科院 2区, JCR 1区, Top, IF: 5.0] | [PDF]
+- W. Wu, Ruihang Ji, Weidong Zhang*, and Yibo Zhang*. "Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults." in IEEE Trans. Intell. Transp. Syst., 2023, doi: 10.1109/TITS.2023.3324346. [中科院 1区, JCR 1区, Top, IF: 8.5] | [PDF] | [Video-Sim]
+- W. Wu, Di Wu, Yibo Zhang*, Shukang Chen, and Weidong Zhang*. "Safety-Critical Trajectory Tracking for Mobile Robots with Guaranteed Performance." in IEEE/CAA J. Autom. Sinica, Aug. 2023, doi: 10.1109/JAS.2023.123864. [中科院 1区, JCR 1区, Top, IF: 11.8] | [PDF] | [Video-Sim] | [Video-Expa] | [Video-Expb]
+- W. Wu, Zhouhua Peng*, Dan Wang, Lu Liu, and Qing-Long Han*. "Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results." in IEEE Trans. Cybern., vol. 52, no. 10, pp. 10937-10947, Oct. 2022. [中科院 1区, JCR 1区, Top, IF: 11.8] | [PDF]
+- W. Wu, Yibo Zhang, Weidong Zhang*, and Wei Xie. "Output-Feedback Finite-Time Safety-Critical Coordinated Control of Path-Guided Marine Surface Vehicles Based on Neurodynamic Optimization." in IEEE Trans. Syst. Man, Cybern., Syst., vol. 53, no. 3, pp. 1788-1800, Sep. 2022. [中科院 1区, JCR 1区, Top, IF: 8.7] | [PDF] | [Video-Sim]
+- W. Wu, Zhouhua Peng*, Lu Liu, and Dan Wang. "A General Safety-Certified Cooperative Control Architecture for Interconnected Intelligent Surface Vehicles with Applications to Vessel Train." in IEEE Trans. Intell. Veh., vol. 7, no. 3, pp. 627-637, Sep. 2022. [中科院 2区, JCR 1区, IF: 8.2] | [PDF] | [Video-Sim]
+- W. Wu, Zhouhua Peng*, Dan Wang, Lu Liu, and Gan Nan. "Anti-Disturbance Leader–Follower Synchronization Control of Marine Vessels for Underway Replenishment Based on Robust Exact Differentiators." in Ocean. Eng., vol. 248, pp. 110686, 2022. [中科院 2区, JCR 1区, Top, IF: 5.0] | [PDF]
+- W. Wu, Yibo Zhang, Weidong Zhang*, and Wei Xie*. "Distributed Finite-Time Performance-Prescribed Time-Varying Formation Control of Autonomous Surface Vehicles with Saturated Inputs." in Ocean. Eng., vol. 266, pp. 12866, Oct. 2022. [中科院 2区, JCR 1区, Top, IF: 5.0] | [PDF] | [Video-Sim]
+- Yibo Zhang, W. Wu, and Weidong Zhang*. "Noncooperative Game-Based Cooperative Maneuvering of Intelligent Surface Vehicles Via Accelerated Learning-Based Neural Predictors." in IEEE Trans. Intell. Veh., vol. 8, no. 3, pp. 2212-2221, Mar. 2023. [中科院 2区, JCR 1区, IF: 8.2] | [PDF]
+- Yibo Zhang, W. Wu, Jinhui Lu, and Weidong Zhang*. "Neural Predictor-based Dynamic Surface Parallel Control for MIMO Uncertain Nonlinear Strict-feedback Systems." in IEEE Trans. Circuits Syst. II Express Briefs, Feb. 2023, doi: 10.1109/TCSII.2023.3252562. [中科院 2区, JCR 2区, IF: 4.4] | [PDF]
+- Xiangxuan Ren, Min Li, Zhi Liu, Zhenhua Li, W. Wu, Lin Bai, and Weidong Zhang*. "Curiosity-Driven Attention for Anomaly Road Obstacles Segmentation in Autonomous Driving." in IEEE Trans. Intell. Veh., vol. 8, no. 3, pp. 2233-2243, Mar. 2023. [中科院 2区, JCR 1区, IF: 8.2] | [PDF]
+- 吴文涛，古楠，彭周华*，刘陆，王丹. "多领航者导引无人船集群的分布式时变队形控制 ." in 中国舰船研究, vol. 15, no. 1, pp. 21-30, 2020. [PDF]
+- 吴文涛, 彭周华*, 王丹, 刘陆, 姜继洲, 任帅. "基于扩张状态观测器的双桨推进无人艇抗干扰目标跟踪控制." in 中国舰船研究, vol. 61, no. 1, pp. 128-135, 2021. [PDF]
+## Conference Papers
+- W. Wu, Chenming Zhang, Zhenhua Li, Weidong Zhang*, and Yibo Zhang. "Finite-time Extended State Observer-Based Performance-Critical Control for Uncertain MIMO Nonlinear Systems." in 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control, Sept., 2023. [Best Student Paper Nomination Award]
+- W. Wu, Zhenhua Li, Yibo Zhang, and Weidong Zhang*. "Noncooperative Containment Control for Multiple Unmanned Surface Vehicles With Improved Extended State Observer." in 2023 China Automation Congress (CAC), 2023.
+- W. Wu, Yibo Zhang, Weidong Zhang*, and Di Wu. "Safety-Certified Consensus Control of Multi-Agent Systems Based on Finite-Time Control Barrier Function.” in 2022 41th Chinese Control Conference (CCC), IEEE, pp. 4661-4665, 2022. [PDF]
+- W. Wu, Dan Wang, Mingao Lv, Jizhou Jiang, Lu Liu, and Zhouhua Peng*. "Event-triggered LOS Guidance for Path Following of an Unmanned Surface Vehicle over Wireless Network.” in 2020 39th Chinese Control Conference (CCC), IEEE, pp. 4475-4480, 2020. [PDF]
+- Yibo Zhang, W. Wu, Di Wu, Yuanhui Wang, Weidong Zhang*. "DSC-based Parallel Control for Consensus Maneuvering of Multi-agent Systems subject to Unmatched Uncertainties based on Distributed Nash Equilibrium Seeking.” in 2022 China Automation Congress (CAC), IEEE, pp. 1125-1130, 2022. [PDF]
+- Haoliang Wang, Jizhou Jiang, W. Wu, Lu Liu, Dan Wang, Zhouhua Peng. "Robust distributed guidance and control of multiple autonomous surface vehicles based on extended state observers and finite-set model predictive control.” in 2020 5th International Conference on Automation, Control and Robotics Engineering (CACRE), IEEE, pp. 235-239, 2020. [PDF]
 
 # 🎖 Honors and Awards
 - *2023.12* &nbsp; 'Research Talent' at Sanya Yazhou Bay Science and Technology City
@@ -82,9 +106,16 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
 - *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition"
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Professional Service:
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## Journal Reviewers
+- *2023~Now* ISA Transactions
+- *2023~Now* IEEE/CAA Journal of Automatica Sinica
+- *2023~Now* IEEE Transactions on Industrial Electronics
+- *2022~Now* IEEE Transactions on Intelligent Vehicles
+- *2022~Now* IEEE Transactions on Systems, Man and Cybernetics: Systems
+- *2022~Now* IEEE Internet of Things Journal
+- *2022~Now* Nonlinear Dynamics
+- *2021~Now* Ocean Engineering
+
+## Conference Reviewers
+ACC (2022), CCC (2023), CCDC (2022,2023)
