@@ -21,6 +21,12 @@ redirect_from:
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=WGp4lBIAAAAJ&hl=zh-CN&oi=sra'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=WGp4lBIAAAAJ&hl=zh-CN&oi=sra'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
 
+# 📖 Educations
+- *2023.12 - now*, Visiting Scholar, Department of Mechanical Engineering, University of Victoria.
+- *2021.09 - Now*, Doctor, Electronic Information Engineering, Department of Automation, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University.
+- *2018.09 - 2021.06*, Master, Electrical Engineering, College of Marine Electrical Engineering, Dalian Maritime University.
+- *2014.09 - 2018.06*, Undergraduate, Electrical Engineering and Automation, School of Electrical and Electronic Engineering, Harbin University of Science and Technology.
+
 # 🔥 News
 - *2023.12* &nbsp;🎉🎉  获2022-2023学年三亚崖州湾科技城“科研英才”研究生!
 - *2023.12* &nbsp;🎉🎉  新文章被控制领域顶刊 IEEE T-SMCA 接收 (Link)!
@@ -77,10 +83,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
 - *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
 - *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
