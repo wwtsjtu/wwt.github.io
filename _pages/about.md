@@ -64,9 +64,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [      ](https://github.com), A, B, C, **CVPR 2020**
-## Review Papers
+### Review Papers
 彭周华，吴文涛，王丹， 刘陆. "多无人艇集群协同控制研究进展与未来趋势." in 中国舰船研究, vol. 61, no. 1, pp. 51-64, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-Pengzhouhua-中国舰船研究.pdf)
-## Journal Papers
+### Journal Papers
 - W. Wu, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*. "Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach." in IEEE Trans. Syst. Man, Cybern., Syst., Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] | [PDF] | [Video-Sim]
 - Yibo Zhang, Di Wu, Peng Cheng, W. Wu, and Weidong Zhang*. "Robust Adaptive Fault-tolerant Control for Path Maneuvering of Autonomous Surface Vehicles with Actuator Faults Based on the Noncooperative Game Strategy." in Ocean. Eng., Dec. 2023, Accepted. [中科院 2区, JCR 1区, Top, IF: 5.0] | [PDF]
 - W. Wu, Ruihang Ji, Weidong Zhang*, and Yibo Zhang*. "Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults." in IEEE Trans. Intell. Transp. Syst., 2023, doi: 10.1109/TITS.2023.3324346. [中科院 1区, JCR 1区, Top, IF: 8.5] | [PDF] | [Video-Sim]
@@ -81,7 +81,8 @@ My research interest includes neural machine translation and computer vision. I 
 - Xiangxuan Ren, Min Li, Zhi Liu, Zhenhua Li, W. Wu, Lin Bai, and Weidong Zhang*. "Curiosity-Driven Attention for Anomaly Road Obstacles Segmentation in Autonomous Driving." in IEEE Trans. Intell. Veh., vol. 8, no. 3, pp. 2233-2243, Mar. 2023. [中科院 2区, JCR 1区, IF: 8.2] | [PDF]
 - 吴文涛，古楠，彭周华*，刘陆，王丹. "多领航者导引无人船集群的分布式时变队形控制 ." in 中国舰船研究, vol. 15, no. 1, pp. 21-30, 2020. [PDF]
 - 吴文涛, 彭周华*, 王丹, 刘陆, 姜继洲, 任帅. "基于扩张状态观测器的双桨推进无人艇抗干扰目标跟踪控制." in 中国舰船研究, vol. 61, no. 1, pp. 128-135, 2021. [PDF]
-## Conference Papers
+
+### Conference Papers
 - W. Wu, Chenming Zhang, Zhenhua Li, Weidong Zhang*, and Yibo Zhang. "Finite-time Extended State Observer-Based Performance-Critical Control for Uncertain MIMO Nonlinear Systems." in 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control, Sept., 2023. [Best Student Paper Nomination Award]
 - W. Wu, Zhenhua Li, Yibo Zhang, and Weidong Zhang*. "Noncooperative Containment Control for Multiple Unmanned Surface Vehicles With Improved Extended State Observer." in 2023 China Automation Congress (CAC), 2023.
 - W. Wu, Yibo Zhang, Weidong Zhang*, and Di Wu. "Safety-Certified Consensus Control of Multi-Agent Systems Based on Finite-Time Control Barrier Function.” in 2022 41th Chinese Control Conference (CCC), IEEE, pp. 4661-4665, 2022. [PDF]
@@ -107,7 +108,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
 
 # 💻 Professional Service:
-## Journal Reviewers
+### Journal Reviewers
 - *2023~Now* ISA Transactions
 - *2023~Now* IEEE/CAA Journal of Automatica Sinica
 - *2023~Now* IEEE Transactions on Industrial Electronics
@@ -117,5 +118,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022~Now* Nonlinear Dynamics
 - *2021~Now* Ocean Engineering
 
-## Conference Reviewers
+### Conference Reviewers
 ACC (2022), CCC (2023), CCDC (2022,2023)
