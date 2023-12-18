@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.11* &nbsp;🎉🎉  获2023年上海交通大学三亚崖州湾深海科技研究院海南专项研究生 博士一等奖学金!
 - *2023.09* &nbsp;🎉🎉  获2023年上海交通大学博士研究生 国家奖学金!
 - *2023.09* &nbsp;🎉🎉  One new paper has been accepted by IEEE T-ITS ([Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))!
-- *2023.08* &nbsp;🎉🎉  One new paper has been accepted by IEEE CAA/JAS ([Link]())!
+- *2023.08* &nbsp;🎉🎉  One new paper has been accepted by IEEE CAA/JAS ([Link](https://www.ieee-jas.net/indexen.html))!
 - *2023.07* &nbsp;🎉🎉  获中国国家留学基金委资助至加拿大维多利亚大学公派留学!
 - *2023.02* &nbsp;🎉🎉  合作者新文章被期刊 IEEE T-CSII 接收 (Link)!
 - *2022.12* &nbsp;🎉🎉  获得海南自贸港创业大赛院校学生专项赛一等奖!
