@@ -22,8 +22,6 @@ redirect_from:
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=WGp4lBIAAAAJ&hl=zh-CN&oi=sra'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=WGp4lBIAAAAJ&hl=zh-CN&oi=sra'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2023.12* &nbsp;🎉🎉  获2022-2023学年三亚崖州湾科技城“科研英才”研究生!
 - *2023.12* &nbsp;🎉🎉  新文章被控制领域顶刊 IEEE T-SMCA 接收 (Link)!
 - *2023.12* &nbsp;🎉🎉  合作者新文章被海洋工程顶刊 OE 接收 (Link)!
