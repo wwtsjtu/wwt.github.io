@@ -23,7 +23,29 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.12* &nbsp;🎉🎉  获2022-2023学年三亚崖州湾科技城“科研英才”研究生!
+- *2023.12* &nbsp;🎉🎉  新文章被控制领域顶刊 IEEE T-SMCA 接收 (Link)!
+- *2023.12* &nbsp;🎉🎉  合作者新文章被海洋工程顶刊 OE 接收 (Link)!
+- *2023.11* &nbsp;🎉🎉  获2023年第七届集群智能与协同控制大会最佳学生论文提名奖!
+- *2023.11* &nbsp;🎉🎉  获2023年空军首届航空创意挑战赛三等奖（国家级）!
+- *2023.11* &nbsp;🎉🎉  获2023年上海交通大学三亚崖州湾深海科技研究院海南专项研究生 博士一等奖学金!
+- *2023.09* &nbsp;🎉🎉  获2023年上海交通大学博士研究生 国家奖学金!
+- *2023.09* &nbsp;🎉🎉  新文章被期刊 IEEE T-ITS 接收 (Link)!
+- *2023.08* &nbsp;🎉🎉  新文章被期刊 IEEE CAA/JAS 接收 (Link)!
+- *2023.07* &nbsp;🎉🎉  获中国国家留学基金委资助至加拿大维多利亚大学公派留学!
+- *2023.02* &nbsp;🎉🎉  合作者新文章被期刊 IEEE T-CSII 接收 (Link)!
+- *2022.12* &nbsp;🎉🎉  获得海南自贸港创业大赛院校学生专项赛一等奖!
+- *2022.11* &nbsp;🎉🎉  合作者新文章被会议 CAC 2022 接收 (Link)!
+- *2022.10* &nbsp;🎉🎉  合作者新文章被期刊 IEEE T-IV 接收 (Link)!
+- *2022.10* &nbsp;🎉🎉  新文章被期刊 OE 接收 (Link)!
+- *2022.09* &nbsp;🎉🎉  新文章被期刊 IEEE T-SMCA 接收 (Link)!
+- *2022.06* &nbsp;🎉🎉  合作者新文章被期刊 IEEE T-IV 接收 (Link)!
+- *2022.04* &nbsp;🎉🎉  新文章被期刊 IEEE T-IV 接收 (Link)!
+- *2022.04* &nbsp;🎉🎉  新文章被会议 CCC 2022接收 (Link)!
+- *2022.01* &nbsp;🎉🎉  新文章被期刊 OE 接收 (Link)!
+- *2021.04* &nbsp;🎉🎉  新文章被期刊 IEEE T-CYB 接收 (Link)!
+
 
 # 📝 Publications 
 
