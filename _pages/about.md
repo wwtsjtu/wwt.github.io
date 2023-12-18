@@ -28,10 +28,10 @@ My research interest includes neural machine translation and computer vision. I 
 - **2014.09 - 2018.06**, I was a B.E. student at [School of Electrical and Electronic Engineering](https://www.seiee.sjtu.edu.cn/), [Harbin University of Science and Technology](http://www.hrbust.edu.cn/), Harbin, China. 
 
 # 🔥 News
-- *2023.12* &nbsp;🎉🎉  获2022-2023学年三亚崖州湾科技城“科研英才”研究生!
+- *2023.12* &nbsp;🎉🎉  I am recognised as Graduate Researcher in Sanya Yazhouwan Science and Technology City 'Research Talents' Program!
 - *2023.12* &nbsp;🎉🎉  One new paper has been accepted by IEEE T-SMCA (Link)!
 - *2023.12* &nbsp;🎉🎉  One co-author new paper has been accepted by OE ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822021497))!
-- *2023.11* &nbsp;🎉🎉  获2023年第七届集群智能与协同控制大会最佳学生论文提名奖!
+- *2023.11* &nbsp;🎉🎉  One conference paper was awarded by Best Student Paper Nomination Award of 7th CCSICC!
 - *2023.11* &nbsp;🎉🎉  获2023年空军首届航空创意挑战赛三等奖（国家级）!
 - *2023.11* &nbsp;🎉🎉  获2023年上海交通大学三亚崖州湾深海科技研究院海南专项研究生 博士一等奖学金!
 - *2023.09* &nbsp;🎉🎉  获2023年上海交通大学博士研究生 国家奖学金!
