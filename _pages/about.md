@@ -101,10 +101,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.10* &nbsp; **National Scholarship for Master's Students at Dalian Maritime University**
 - *2020.10* &nbsp; Outstanding Graduate of Dalian City
 - *2020.12* &nbsp; Outstanding Graduate Student at Dalian Maritime University
-- *2022.12* &nbsp; National Third Prize in Graduate Electronic Design Competition
-- *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
-- *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
-- *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition"
+- *2020.12* &nbsp; National Third Prize in Graduate Electronic Design Competition
+- *2020.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
+- *2020.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
+- *2019.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
 
 # 💻 Professional Service:
 ## Journal Reviewers
