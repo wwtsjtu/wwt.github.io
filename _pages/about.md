@@ -28,15 +28,15 @@ My research interest includes neural machine translation and computer vision. I 
 - **2014.09 - 2018.06**, I was a B.E. student at [School of Electrical and Electronic Engineering](https://www.seiee.sjtu.edu.cn/), [Harbin University of Science and Technology](http://www.hrbust.edu.cn/), Harbin, China. 
 
 # 🔥 News
-- *2023.12* &nbsp;🎉🎉  I am recognised as 'Research Talents' in Sanya Yazhou Bay Science and Technology City!
-- *2023.12* &nbsp;🎉🎉  One new paper has been accepted by IEEE T-SMCA (Link)!
-- *2023.12* &nbsp;🎉🎉  One co-author new paper has been accepted by OE ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822021497))!
-- *2023.11* &nbsp;🎉🎉  One conference paper was awarded by Best Student Paper Nomination Award of 7th CCSICC!
+- *2023.12* &nbsp;🎉🎉  I am recognised as '**Research Talents**' in Sanya Yazhou Bay Science and Technology City!
+- *2023.12* &nbsp;🎉🎉  One new paper has been accepted by **IEEE T-SMCA** (Link)!
+- *2023.12* &nbsp;🎉🎉  One co-author new paper has been accepted by **OE** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822021497))!
+- *2023.11* &nbsp;🎉🎉  One conference paper was awarded by **Best Student Paper Nomination Award** of 7th CCSICC!
 - *2023.11* &nbsp;🎉🎉  获2023年空军首届航空创意挑战赛三等奖（国家级）!
-- *2023.11* &nbsp;🎉🎉  I have been awarded the First-class Scholarship for  Ph.D. Students at the Yazhou Bay Deep Sea Science and Technology Research Institute, Shanghai Jiao Tong University!
-- *2023.09* &nbsp;🎉🎉   I have been awarded the National Scholarship for Ph.D. Students at Shanghai Jiao Tong University!
-- *2023.09* &nbsp;🎉🎉  One new paper has been accepted by IEEE T-ITS ([Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))!
-- *2023.08* &nbsp;🎉🎉  One new paper has been accepted by IEEE CAA/JAS ([Link](https://www.ieee-jas.net/indexen.html))!
+- *2023.11* &nbsp;🎉🎉  I have been awarded the **First-class Scholarship** for Ph.D. Students at the Yazhou Bay Deep Sea Science and Technology Research Institute, Shanghai Jiao Tong University!
+- *2023.09* &nbsp;🎉🎉   I have been awarded the **National Scholarship** for Ph.D. Students at Shanghai Jiao Tong University!
+- *2023.09* &nbsp;🎉🎉  One new paper has been accepted by **IEEE T-ITS** ([Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))!
+- *2023.08* &nbsp;🎉🎉  One new paper has been accepted by **IEEE CAA/JAS** ([Link](https://www.ieee-jas.net/indexen.html))!
 - *2023.07* &nbsp;🎉🎉  获中国国家留学基金委资助至加拿大维多利亚大学公派留学!
 - *2023.02* &nbsp;🎉🎉  合作者新文章被期刊 IEEE T-CSII 接收 (Link)!
 - *2022.12* &nbsp;🎉🎉  获得海南自贸港创业大赛院校学生专项赛一等奖!
