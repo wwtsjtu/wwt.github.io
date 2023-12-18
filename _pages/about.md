@@ -66,7 +66,7 @@ My research interest includes neural machine translation and computer vision. I 
 ### `Review Papers`
 - 彭周华，吴文涛，王丹， 刘陆. "多无人艇集群协同控制研究进展与未来趋势." in 中国舰船研究, vol. 61, no. 1, pp. 51-64, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-Pengzhouhua-中国舰船研究.pdf)
 ### Journal Papers
-- W. Wu, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](),'' *[IEEE Trans. Syst. Man, Cybern. , Syst.]()*, Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF]() \| [Video-Sim]()
+- W. Wu, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](),'' ``[IEEE Trans. Syst. Man, Cybern. , Syst.]()``, Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF]() \| [Video-Sim]()
 
 - Yibo Zhang, Di Wu, Peng Cheng, W. Wu, and Weidong Zhang*, ''Robust Adaptive Fault-tolerant Control for Path Maneuvering of Autonomous Surface Vehicles with Actuator Faults Based on the Noncooperative Game Strategy,'' Ocean. Eng., Dec. 2023, Accepted. [中科院 2区, JCR 1区, Top, IF: 5.0] \| [PDF]()
 - W. Wu, Ruihang Ji, Weidong Zhang*, and Yibo Zhang*, ''Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults,'' IEEE Trans. Intell. Transp. Syst., 2023, doi: 10.1109/TITS.2023.3324346. [中科院 1区, JCR 1区, Top, IF: 8.5] \| [PDF] \| [Video-Sim]
