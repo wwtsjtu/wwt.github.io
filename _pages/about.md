@@ -22,10 +22,10 @@ redirect_from:
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=WGp4lBIAAAAJ&hl=zh-CN&oi=sra'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=WGp4lBIAAAAJ&hl=zh-CN&oi=sra'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
 
 # 📖 Educations
-- **2023.12 - Now**, I am a visiting scholar at Department of Mechanical Engineering, University of Victoria, Canada, under the supervision of Prof. Yang Shi.
-- **2021.09 - Now**, I am a Ph.D. student at Department of Automation, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China, under the supervision of Prof. Weidong Zhang and Prof. Junguo Lu.
+- **2023.12 - Now**, I am a visiting scholar at [Department of Mechanical Engineering](https://www.uvic.ca/ecs/mechanical/prospective-students/undergraduate/index.php), [University of Victoria](https://www.uvic.ca/), Canada, under the supervision of Prof. [Yang Shi](https://www.engr.uvic.ca/~yshi/index.html) (Fellow of Engineering Institute of Canada, Fellow of IEEE, ASME, CSME).
+- **2021.09 - Now**, I am a Ph.D. student at Department of Automation, [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China, under the supervision of Prof. [Weidong Zhang](https://automation.sjtu.edu.cn/wdzhang) (Distinguished Young Scholar and Cheung Kong Scholar) and Prof. [Junguo Lu](https://automation.sjtu.edu.cn/Jun-Guo).
 - **2018.09 - 2021.06**, I was an M.E. student at College of Marine Electrical Engineering, Dalian Maritime University, Dalian, China, under the supervision of Prof. Dan Wang and Prof. Zhouhua Peng.
-- **2014.09 - 2018.06**, I was a B.E. student at School of Electrical and Electronic Engineering, Harbin University of Science and Technology, Harbin, China.
+- **2014.09 - 2018.06**, I was a B.E. student at School of Electrical and Electronic Engineering, Harbin University of Science and Technology, Harbin, China. 
 
 # 🔥 News
 - *2023.12* &nbsp;🎉🎉  获2022-2023学年三亚崖州湾科技城“科研英才”研究生!
