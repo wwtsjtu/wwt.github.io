@@ -38,17 +38,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.09* &nbsp;🎉🎉  One new paper has been accepted by **IEEE T-ITS** ([Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))!
 - *2023.08* &nbsp;🎉🎉  One new paper has been accepted by **IEEE CAA/JAS** ([Link](https://www.ieee-jas.net/indexen.html))!
 - *2023.07* &nbsp;🎉🎉  I received the Chinese Government Scholarship to study abroad at the University of Victoria in Canada!
-- *2023.02* &nbsp;🎉🎉  合作者新文章被期刊 IEEE T-CSII 接收 (Link)!
-- *2022.12* &nbsp;🎉🎉  获得海南自贸港创业大赛院校学生专项赛一等奖!
-- *2022.11* &nbsp;🎉🎉  合作者新文章被会议 CAC 2022 接收 (Link)!
-- *2022.10* &nbsp;🎉🎉  合作者新文章被期刊 IEEE T-IV 接收 (Link)!
-- *2022.10* &nbsp;🎉🎉  新文章被期刊 OE 接收 (Link)!
-- *2022.09* &nbsp;🎉🎉  新文章被期刊 IEEE T-SMCA 接收 (Link)!
-- *2022.06* &nbsp;🎉🎉  合作者新文章被期刊 IEEE T-IV 接收 (Link)!
-- *2022.04* &nbsp;🎉🎉  新文章被期刊 IEEE T-IV 接收 (Link)!
-- *2022.04* &nbsp;🎉🎉  新文章被会议 CCC 2022接收 (Link)!
-- *2022.01* &nbsp;🎉🎉  新文章被期刊 OE 接收 (Link)!
-- *2021.04* &nbsp;🎉🎉  新文章被期刊 IEEE T-CYB 接收 (Link)!
+- *2023.02* &nbsp;🎉🎉  One co-author new paper has been accepted by **IEEE T-CSII** ([Link](https://ieeexplore.ieee.org/abstract/document/10059139))!
+- *2022.12* &nbsp;🎉🎉  I won the **first prize** in the Hainan Free Trade Port Entrepreneurship Competition!
+- *2022.10* &nbsp;🎉🎉  One co-author new paper has been accepted by IEEE **T-IV** ([Link](https://ieeexplore.ieee.org/abstract/document/9950329))!
+- *2022.10* &nbsp;🎉🎉  One new paper has been accepted by **OE** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822021497))!
+- *2022.09* &nbsp;🎉🎉  One new paper has been accepted by **IEEE T-SMCA** ([Link](https://ieeexplore.ieee.org/abstract/document/9900363))!
+- *2022.06* &nbsp;🎉🎉  One co-author new paper has been accepted by **IEEE T-IV** ([Link](https://ieeexplore.ieee.org/abstract/document/9878245))!
+- *2022.04* &nbsp;🎉🎉  One new paper has been accepted by **IEEE T-IV** ([Link](https://ieeexplore.ieee.org/abstract/document/9762043))!
+- *2022.01* &nbsp;🎉🎉  One new paper has been accepted by **OE** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822001445))!
+- *2021.04* &nbsp;🎉🎉  One new paper has been accepted by **IEEE T-CYB** ([Link](https://ieeexplore.ieee.org/abstract/document/9440777))!
 
 
 # 📝 Publications 
