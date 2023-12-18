@@ -33,8 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.12* &nbsp;🎉🎉  One co-author new paper has been accepted by OE ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822021497))!
 - *2023.11* &nbsp;🎉🎉  One conference paper was awarded by Best Student Paper Nomination Award of 7th CCSICC!
 - *2023.11* &nbsp;🎉🎉  获2023年空军首届航空创意挑战赛三等奖（国家级）!
-- *2023.11* &nbsp;🎉🎉  获2023年上海交通大学三亚崖州湾深海科技研究院海南专项研究生 博士一等奖学金!
-- *2023.09* &nbsp;🎉🎉  获2023年上海交通大学博士研究生 国家奖学金!
+- *2023.11* &nbsp;🎉🎉  I have been awarded the First-class Scholarship for  Ph.D. Students at the Yazhou Bay Deep Sea Science and Technology Research Institute, Shanghai Jiao Tong University!
+- *2023.09* &nbsp;🎉🎉   I have been awarded the National Scholarship for Ph.D. Students at Shanghai Jiao Tong University!
 - *2023.09* &nbsp;🎉🎉  One new paper has been accepted by IEEE T-ITS ([Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))!
 - *2023.08* &nbsp;🎉🎉  One new paper has been accepted by IEEE CAA/JAS ([Link](https://www.ieee-jas.net/indexen.html))!
 - *2023.07* &nbsp;🎉🎉  获中国国家留学基金委资助至加拿大维多利亚大学公派留学!
