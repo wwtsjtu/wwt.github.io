@@ -62,8 +62,21 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* &nbsp; 三亚崖州湾科技城“科研英才”研究生
+- *2023.11* &nbsp; 第七届集群智能与协同控制最佳学生论文提名奖
+- *2023.11* &nbsp; 上海交通大学三亚崖州湾深海科技研究院海南专项研究生博士一等奖学金
+- *2023.10* &nbsp; 空军首届航空创意挑战赛国家三等奖
+- *2023.09* &nbsp; 上海交通大学博士研究生国家奖学金
+- *2023.08* &nbsp; 共创未来--中美青年创客大赛二等奖
+- *2022.12* &nbsp; 海南自贸港创业大赛院校学生专项赛一等奖
+- *2021.12* &nbsp; 辽宁省优秀硕士论文
+- *2020.10* &nbsp; 大连海事大学硕士研究生国家奖学金
+- *2020.10* &nbsp; 大连市优秀毕业生 
+- *2020.12* &nbsp; 大连海事大学优秀研究生
+- *2022.12* &nbsp; 研究生电子设计竞赛全国三等奖
+- *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
+- *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
+- *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
