@@ -69,36 +69,22 @@ My research interest includes neural machine translation and computer vision. I 
 - [      ](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.12* &nbsp; 'Research Talent' Graduate Student at Yazhou Bay Science and Technology City, Sanya, Hainan
-- *2023.11* &nbsp; Nomination for Best Student Paper at the 7th Cluster Intelligence and Collaborative Control Conference
-- *2023.11* &nbsp; First Prize Scholarship for Ph.D. Students at Shanghai Jiao Tong University Sanya Yazhouwan Institute for Deep Sea Science and Technology
-- *2023.10* &nbsp; National Third Prize in the Air Force's First Aviation Innovation Challenge
-- *2023.09* &nbsp; National Scholarship for Ph.D. Candidates at Shanghai Jiao Tong University
-- *2023.08* &nbsp; Second Prize at 'Co-Creating the Future – Sino-U.S. Youth Maker Competition'
-- *2022.12* &nbsp; First Prize in the College Student Special Competition of the Hainan Free Trade Port Entrepreneurship Competition
-- *2021.12* &nbsp; Outstanding Master's Thesis in Liaoning Province
-- *2020.10* &nbsp; National Scholarship for Master's Students at Dalian Maritime University
+- *2023.12* &nbsp; 'Research Talent' at Sanya Yazhou Bay Science and Technology City
+- *2023.11* &nbsp; **Best Student Paper Nomination Award of 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control （CCSICC）**
+- *2023.11* &nbsp; First-Class Scholarship for Ph.D. Students at Shanghai Jiao Tong University Sanya Yazhou Bay Deep Sea Science and Technology Institute
+- *2023.10* &nbsp; 空军首届航空创意挑战赛三等奖
+- *2023.09* &nbsp; **National Scholarship for Ph.D. Candidates at Shanghai Jiao Tong University**
+- *2023.08* &nbsp; 共创未来--中美青年创客大赛海口分赛区二等奖
+- *2022.12* &nbsp; 海南自贸港创业大赛院校学生专项赛一等奖
+- *2021.12* &nbsp; **Outstanding Master's Thesis in Liaoning Province**
+- *2020.10* &nbsp; **National Scholarship for Master's Students at Dalian Maritime University**
 - *2020.10* &nbsp; Outstanding Graduate of Dalian City
 - *2020.12* &nbsp; Outstanding Graduate Student at Dalian Maritime University
 - *2022.12* &nbsp; National Third Prize in Graduate Electronic Design Competition
 - *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
 - *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
 - *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition"
-- *2023.12* &nbsp; 三亚崖州湾科技城“科研英才”研究生
-- *2023.11* &nbsp; 第七届集群智能与协同控制最佳学生论文提名奖
-- *2023.11* &nbsp; 上海交通大学三亚崖州湾深海科技研究院海南专项研究生博士一等奖学金
-- *2023.10* &nbsp; 空军首届航空创意挑战赛国家三等奖
-- *2023.09* &nbsp; 上海交通大学博士研究生国家奖学金
-- *2023.08* &nbsp; 共创未来--中美青年创客大赛二等奖
-- *2022.12* &nbsp; 海南自贸港创业大赛院校学生专项赛一等奖
-- *2021.12* &nbsp; 辽宁省优秀硕士论文
-- *2020.10* &nbsp; 大连海事大学硕士研究生国家奖学金
-- *2020.10* &nbsp; 大连市优秀毕业生 
-- *2020.12* &nbsp; 大连海事大学优秀研究生
-- *2022.12* &nbsp; 研究生电子设计竞赛全国三等奖
-- *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
-- *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
-- *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
