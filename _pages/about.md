@@ -27,14 +27,14 @@ My research interest includes neural machine translation and computer vision. I 
 - **2018.09 - 2021.06**, I was an M.E. student at College of Marine Electrical Engineering, Dalian Maritime University, Dalian, China, under the supervision of Prof. [Dan Wang](https://scholar.google.com/citations?user=kc8gnlMAAAAJ&amp;hl=zh-CN" target="_blank) and Prof. [Zhouhua Peng](https://scholar.google.com/citations?user=hM_5JDYAAAAJ&amp;hl=zh-CN).
 - **2014.09 - 2018.06**, I was a B.E. student at [School of Electrical and Electronic Engineering](https://www.seiee.sjtu.edu.cn/), [Harbin University of Science and Technology](http://www.hrbust.edu.cn/), Harbin, China. 
 
-# 🔥 News
-- *2023.12* &nbsp;🎉🎉  I am recognised as '**Research Talents**' in Sanya Yazhou Bay Science and Technology City!
-- *2023.12* &nbsp;🎉🎉  One new paper has been accepted by **IEEE T-SMCA** (Link)!
-- *2023.12* &nbsp;🎉🎉  One co-author new paper has been accepted by **OE** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822021497))!
+# 💬 Recent News
+- *2023.12* &nbsp;🎉🎉 I am recognised as '**Research Talents**' in Sanya Yazhou Bay Science and Technology City!
+- *2023.12* &nbsp;🎉  One new paper has been accepted by **IEEE T-SMCA** (Link)!
+- *2023.12* &nbsp;🎉 One co-author new paper has been accepted by **OE** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822021497))!
 - *2023.11* &nbsp;🎉🎉  One conference paper was awarded by **Best Student Paper Nomination Award** of 7th CCSICC!
 - *2023.11* &nbsp;🎉🎉  I won the **national third prize** in the First Air Force Aviation Innovation Challenge in 2023!
 - *2023.11* &nbsp;🎉🎉  I have been awarded the **First-class Scholarship** for Ph.D. Students at the Yazhou Bay Deep Sea Science and Technology Research Institute, Shanghai Jiao Tong University!
-- *2023.09* &nbsp;🎉🎉   I have been awarded the **National Scholarship** for Ph.D. Students at Shanghai Jiao Tong University!
+- *2023.09* &nbsp;🎉🎉🎉   I have been awarded the **National Scholarship** for Ph.D. Students at Shanghai Jiao Tong University!
 - *2023.09* &nbsp;🎉🎉  One new paper has been accepted by **IEEE T-ITS** ([Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))!
 - *2023.08* &nbsp;🎉🎉  One new paper has been accepted by **IEEE CAA/JAS** ([Link](https://www.ieee-jas.net/indexen.html))!
 - *2023.07* &nbsp;🎉🎉  I received the Chinese Government Scholarship to study abroad at the University of Victoria in Canada!
@@ -69,6 +69,21 @@ My research interest includes neural machine translation and computer vision. I 
 - [      ](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2023.12* &nbsp; 'Research Talent' Graduate Student at Yazhou Bay Science and Technology City, Sanya, Hainan
+- *2023.11* &nbsp; Nomination for Best Student Paper at the 7th Cluster Intelligence and Collaborative Control Conference
+- *2023.11* &nbsp; First Prize Scholarship for Ph.D. Students at Shanghai Jiao Tong University Sanya Yazhouwan Institute for Deep Sea Science and Technology
+- *2023.10* &nbsp; National Third Prize in the Air Force's First Aviation Innovation Challenge
+- *2023.09* &nbsp; National Scholarship for Ph.D. Candidates at Shanghai Jiao Tong University
+- *2023.08* &nbsp; Second Prize at 'Co-Creating the Future – Sino-U.S. Youth Maker Competition'
+- *2022.12* &nbsp; First Prize in the College Student Special Competition of the Hainan Free Trade Port Entrepreneurship Competition
+- *2021.12* &nbsp; Outstanding Master's Thesis in Liaoning Province
+- *2020.10* &nbsp; National Scholarship for Master's Students at Dalian Maritime University
+- *2020.10* &nbsp; Outstanding Graduate of Dalian City
+- *2020.12* &nbsp; Outstanding Graduate Student at Dalian Maritime University
+- *2022.12* &nbsp; National Third Prize in Graduate Electronic Design Competition
+- *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
+- *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition
+- *2022.12* &nbsp; Provincial First Prize in Graduate Electronic Design Competition"
 - *2023.12* &nbsp; 三亚崖州湾科技城“科研英才”研究生
 - *2023.11* &nbsp; 第七届集群智能与协同控制最佳学生论文提名奖
 - *2023.11* &nbsp; 上海交通大学三亚崖州湾深海科技研究院海南专项研究生博士一等奖学金
@@ -84,7 +99,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
 - *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
 - *2022.12* &nbsp; 研究生电子设计竞赛省级一等奖
-
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
