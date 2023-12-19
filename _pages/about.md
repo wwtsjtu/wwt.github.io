@@ -141,6 +141,13 @@ My research interest includes neural machine translation and computer vision. I 
 - Yibo Zhang, **Wentao Wu**, Di Wu, Yuanhui Wang, Weidong Zhang*. "DSC-based Parallel Control for Consensus Maneuvering of Multi-agent Systems subject to Unmatched Uncertainties based on Distributed Nash Equilibrium Seeking.” in 2022 China Automation Congress (CAC), IEEE, pp. 1125-1130, 2022. [PDF]()
 - Haoliang Wang, Jizhou Jiang, **Wentao Wu**, Lu Liu, Dan Wang, Zhouhua Peng. "Robust distributed guidance and control of multiple autonomous surface vehicles based on extended state observers and finite-set model predictive control.” in 2020 5th International Conference on Automation, Control and Robotics Engineering (CACRE), IEEE, pp. 235-239, 2020. [PDF]()
 
+### Patents
+
+- **吴文涛**，张卫东，张义博，李镇华，李兰. 一种无人船容饱和预设性能船舶列车编队控制系统及方法[P]. 上海市：202311691127.8, 2023-12-11. [已受理]
+
+- 张卫东，郑建文, **吴文涛**等. 一种基于领导者协同的多无人船编队的严格安全控制方法[P]. 上海市：CN115903800A,2023-04-04. [已公开]
+- 王丹, 张宝, 孙邱越, 彭周华, 刘陆, 李铁山, **吴文涛**, 姜继州. 一种海洋机器人轨迹跟踪控制结构的设计方法[P]. 辽宁省：CN110262513B, 2022-01-28. [已授权]
+
 # 🎖 Honors and Awards
 - *2023.12* &nbsp; 'Research Talent' at Sanya Yazhou Bay Science and Technology City
 - *2023.11* &nbsp; **Best Student Paper Nomination Award of 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control （CCSICC）**
