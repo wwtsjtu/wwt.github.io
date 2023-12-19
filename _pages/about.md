@@ -96,6 +96,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV 2022</div><img src='assets/Video/Video-Sim/WuWentao-2022-IEEE-TIV.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A General Safety-Certified Cooperative Control Architecture for Interconnected Intelligent Surface Vehicles with Applications to Vessel Train](https://ieeexplore.ieee.org/abstract/document/9762043) \\
+**Wentao Wu**, Zhouhua Peng*, Lu Liu, and Dan Wang
+
+[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+
+ [PDF](/assets/papers/SCI/WuWentao-2022-IEEE-TIV.pdf) \| [![Video-Sim](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](/assets/Video/Video-Sim/WuWentao-2022-IEEE-TIV.mp4) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-CYB 2021</div><img src='assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -110,24 +122,6 @@ My research interest includes neural machine translation and computer vision. I 
 - 
 </div>
 </div>
-
-
-- **Wentao Wu**, Zhouhua Peng*, Lu Liu, and Dan Wang, ''[A General Safety-Certified Cooperative Control Architecture for Interconnected Intelligent Surface Vehicles with Applications to Vessel Train](https://ieeexplore.ieee.org/abstract/document/9762043),'' *[IEEE Trans. Intell. Veh.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)*, vol. 7, no. 3, pp. 627-637, Sep. 2022. [中科院 2区, JCR 1区, IF: 8.2] \| [PDF](/assets/papers/SCI/WuWentao-2022-IEEE-TIV.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2022-IEEE-TIV.mp4)
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV 2022</div><img src='assets/Video/Video-Sim/WuWentao-2022-IEEE-TIV.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A General Safety-Certified Cooperative Control Architecture for Interconnected Intelligent Surface Vehicles with Applications to Vessel Train](https://ieeexplore.ieee.org/abstract/document/9762043) \\
-**Wentao Wu**, Zhouhua Peng*, Lu Liu, and Dan Wang
-
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-
- [PDF](/assets/papers/SCI/WuWentao-2022-IEEE-TIV.pdf) \| [![Video-Sim](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](/assets/Video/Video-Sim/WuWentao-2022-IEEE-TIV.mp4) 
-</div>
-</div>
-
-
 
 ### Review Papers
 - 彭周华，**吴文涛**，王丹， 刘陆, "[多无人艇集群协同控制研究进展与未来趋势](http://zgjcyj.xml-journal.net/cn/article/doi/10.19693/j.issn.1673-3185.01923)," 中国舰船研究, vol. 61, no. 1, pp. 51-64, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-Pengzhouhua-中国舰船研究.pdf)
