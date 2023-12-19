@@ -66,7 +66,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-TIS 2023</div><img src='/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults](https://ieeexplore.ieee.org/document/10292769)
