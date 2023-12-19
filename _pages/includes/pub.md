@@ -1,3 +1,5 @@
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications 
 
 ### Selected Papers
@@ -122,7 +124,7 @@
 - ``2020/09`` **吴文涛**，古楠，彭周华*，刘陆，王丹, ''[多领航者导引无人船集群的分布式时变队形控制](https://web.archive.org/web/20201126111532id_/http://html.rhhz.net/ZGJCYJ/html/2020-1-21.htm),'' *[中国舰船研究](http://zgjcyj.xml-journal.net/index.htm)*, vol. 15, no. 1, pp. 21-30, 2020. [PDF](/assets/papers/ZWHX/J-核心-2020-WuWentao-中国舰船研究b.pdf)
 
 ### Conference Papers
-- ``2023/09`` **Wentao Wu**, Chenming Zhang, Zhenhua Li, Weidong Zhang, and Yibo Zhang, "Finite-time Extended State Observer-Based Performance-Critical Control for Uncertain MIMO Nonlinear Systems," 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control, Sept., 2023. [**Best Student Paper Nomination Award**] \| [PDF](/assets/papers/EI/2023-CCSICC.pdf)
+- ``2023/09`` **Wentao Wu**, Chenming Zhang, Zhenhua Li, Weidong Zhang, and Yibo Zhang, "Finite-time Extended State Observer-Based Performance-Critical Control for Uncertain MIMO Nonlinear Systems," 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control, Sept., 2023. [**<span style="color:red">Best Student Paper Nomination Award</span>**] \| [PDF](/assets/papers/EI/2023-CCSICC.pdf)
 
 - ``2023/09`` **Wentao Wu**, Zhenhua Li, Yibo Zhang, and Weidong Zhang, "[Noncooperative Containment Control for Multiple Unmanned Surface Vehicles With Improved Extended State Observer](https://review.cacpaper.com/914/paper)," [2023 China Automation Congress (CAC)](https://ieeexplore.ieee.org/xpl/conhome/10054511/proceeding), 2023. [PDF](/assets/papers/EI/2023-CAC.pdf)
 
