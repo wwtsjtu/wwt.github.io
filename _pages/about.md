@@ -51,6 +51,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+### Selected Papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -173,12 +175,17 @@ My research interest includes neural machine translation and computer vision. I 
 - **吴文涛**，古楠，彭周华*，刘陆，王丹, ''[多领航者导引无人船集群的分布式时变队形控制](https://web.archive.org/web/20201126111532id_/http://html.rhhz.net/ZGJCYJ/html/2020-1-21.htm),'' *[中国舰船研究](http://zgjcyj.xml-journal.net/index.htm)*, vol. 15, no. 1, pp. 21-30, 2020. [PDF](/assets/papers/ZWHX/J-核心-2020-WuWentao-中国舰船研究b.pdf)
 
 ### Conference Papers
-- **Wentao Wu**, Chenming Zhang, Zhenhua Li, Weidong Zhang, and Yibo Zhang. "Finite-time Extended State Observer-Based Performance-Critical Control for Uncertain MIMO Nonlinear Systems." in 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control, Sept., 2023. [Best Student Paper Nomination Award]()
-- **Wentao Wu**, Zhenhua Li, Yibo Zhang, and Weidong Zhang. "Noncooperative Containment Control for Multiple Unmanned Surface Vehicles With Improved Extended State Observer." in 2023 China Automation Congress (CAC), 2023.
-- **Wentao Wu**, Yibo Zhang, Weidong Zhang, and Di Wu. "Safety-Certified Consensus Control of Multi-Agent Systems Based on Finite-Time Control Barrier Function.” in 2022 41th Chinese Control Conference (CCC), IEEE, pp. 4661-4665, 2022. [PDF]()
-- **Wentao Wu**, Dan Wang, Mingao Lv, Jizhou Jiang, Lu Liu, and Zhouhua Peng. "Event-triggered LOS Guidance for Path Following of an Unmanned Surface Vehicle over Wireless Network.” in 2020 39th Chinese Control Conference (CCC), IEEE, pp. 4475-4480, 2020. [PDF]()
-- Yibo Zhang, **Wentao Wu**, Di Wu, Yuanhui Wang, Weidong Zhang. "DSC-based Parallel Control for Consensus Maneuvering of Multi-agent Systems subject to Unmatched Uncertainties based on Distributed Nash Equilibrium Seeking.” in 2022 China Automation Congress (CAC), IEEE, pp. 1125-1130, 2022. [PDF]()
-- Haoliang Wang, Jizhou Jiang, **Wentao Wu**, Lu Liu, Dan Wang, Zhouhua Peng. "Robust distributed guidance and control of multiple autonomous surface vehicles based on extended state observers and finite-set model predictive control.” in 2020 5th International Conference on Automation, Control and Robotics Engineering (CACRE), IEEE, pp. 235-239, 2020. [PDF]()
+- **Wentao Wu**, Chenming Zhang, Zhenhua Li, Weidong Zhang, and Yibo Zhang, "Finite-time Extended State Observer-Based Performance-Critical Control for Uncertain MIMO Nonlinear Systems," 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control, Sept., 2023. *[Best Student Paper Nomination Award]* \| [PDF](/assets/papers/EI/2023-CCSICC.pdf)
+
+- **Wentao Wu**, Zhenhua Li, Yibo Zhang, and Weidong Zhang, "[Noncooperative Containment Control for Multiple Unmanned Surface Vehicles With Improved Extended State Observer](https://review.cacpaper.com/914/paper)," [2023 China Automation Congress (CAC)](https://ieeexplore.ieee.org/xpl/conhome/10054511/proceeding), 2023. [PDF](/assets/papers/EI/2023-CAC.pdf)
+
+- **Wentao Wu**, Yibo Zhang, Weidong Zhang, and Di Wu, "[Safety-Certified Consensus Control of Multi-Agent Systems Based on Finite-Time Control Barrier Function](https://ieeexplore.ieee.org/abstract/document/9902172),” [2022 41th Chinese Control Conference (CCC)](https://ieeexplore.ieee.org/xpl/conhome/9901509/proceeding), IEEE, pp. 4661-4665, 2022. [PDF](/assets/papers/EI/2022-CCC.pdf)
+
+- **Wentao Wu**, Dan Wang, Mingao Lv, Jizhou Jiang, Lu Liu, and Zhouhua Peng, "[Event-triggered LOS Guidance for Path Following of an Unmanned Surface Vehicle over Wireless Network](https://ieeexplore.ieee.org/abstract/document/9189015),” [2020 39th Chinese Control Conference (CCC)](https://ieeexplore.ieee.org/xpl/conhome/9181388/proceeding), IEEE, pp. 4475-4480, 2020. [PDF](/assets/papers/EI/2020-CCC.pdf)
+
+- Yibo Zhang, **Wentao Wu**, Di Wu, Yuanhui Wang, Weidong Zhang, "[DSC-based Parallel Control for Consensus Maneuvering of Multi-agent Systems subject to Unmatched Uncertainties based on Distributed Nash Equilibrium Seeking](https://ieeexplore.ieee.org/abstract/document/10056005),” [2022 China Automation Congress (CAC)](https://ieeexplore.ieee.org/xpl/conhome/10054511/proceeding), IEEE, pp. 1125-1130, 2022. [PDF](/assets/papers/EI/ZhangYibo-2022-CAC.pdf)
+
+- Haoliang Wang, Jizhou Jiang, **Wentao Wu**, Lu Liu, Dan Wang, Zhouhua Peng, "[Robust distributed guidance and control of multiple autonomous surface vehicles based on extended state observers and finite-set model predictive control](https://ieeexplore.ieee.org/abstract/document/9230166),” [2020 5th International Conference on Automation, Control and Robotics Engineering (CACRE)](https://ieeexplore.ieee.org/xpl/conhome/9229471/proceeding), IEEE, pp. 235-239, 2020. [PDF](/assets/papers/EI/WangHaoliang-2020-CACRE.pdf)
 
 ### Patents
 
