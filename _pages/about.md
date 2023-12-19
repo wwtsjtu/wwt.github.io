@@ -101,7 +101,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf)
 
-**Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, Weidong Zhang*
+**Wentao Wu**, Zhouhua Peng, Dan Wang, Lu Liu, and Qing-Long Han
 
 [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
 
@@ -115,23 +115,23 @@ My research interest includes neural machine translation and computer vision. I 
 - 彭周华，**吴文涛**，王丹， 刘陆, "[多无人艇集群协同控制研究进展与未来趋势](http://zgjcyj.xml-journal.net/cn/article/doi/10.19693/j.issn.1673-3185.01923)," 中国舰船研究, vol. 61, no. 1, pp. 51-64, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-Pengzhouhua-中国舰船研究.pdf)
 
 ### Journal Papers
-- ``2023/12`` **Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](),'' [IEEE Trans. Syst. Man, Cybern. , Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021), Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
+- ``2023/12`` **Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](),'' *[IEEE Trans. Syst. Man, Cybern. , Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
 
 - Yibo Zhang, Di Wu, Peng Cheng, **Wentao Wu**, and Weidong Zhang*, ''Robust Adaptive Fault-tolerant Control for Path Maneuvering of Autonomous Surface Vehicles with Actuator Faults Based on the Noncooperative Game Strategy,'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, Dec. 2023, Accepted. [中科院 2区, JCR 1区, Top, IF: 5.0] \| [PDF]()
 
-- **Wentao Wu**, Ruihang Ji, Weidong Zhang*, and Yibo Zhang*, ''[Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults](https://ieeexplore.ieee.org/document/10292769),'' [IEEE Trans. Intell. Transp. Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), 2023, doi: 10.1109/TITS.2023.3324346. [中科院 1区, JCR 1区, Top, IF: 8.5] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TITS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.mp4)
+- **Wentao Wu**, Ruihang Ji, Weidong Zhang*, and Yibo Zhang*, ''[Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults](https://ieeexplore.ieee.org/document/10292769),'' *[IEEE Trans. Intell. Transp. Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)*, 2023, doi: 10.1109/TITS.2023.3324346. [中科院 1区, JCR 1区, Top, IF: 8.5] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TITS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.mp4)
 
 - **Wentao Wu**, Di Wu, Yibo Zhang*, Shukang Chen, and Weidong Zhang*, ''[Safety-Critical Trajectory Tracking for Mobile Robots with Guaranteed Performance](/assets/papers/SCI/WuWentao-2023-IEEE-JAS.pdf),'' [IEEE/CAA J. Autom. Sinica](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654), Aug. 2023, doi: 10.1109/JAS.2023.123864. [中科院 1区, JCR 1区, Top, IF: 11.8] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-JAS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-JAS.mp4) \| [Video-Expa](/assets/Video/Video-Exp/WuWentao-2023-IEEE-JASa.mp4) \| [Video-Expb](/assets/Video/Video-Exp/WuWentao-2023-IEEE-JASb.mp4)
 
-- **Wentao Wu**, Zhouhua Peng*, Dan Wang, Lu Liu, and Qing-Long Han*, ''Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results,'' IEEE Trans. Cybern., vol. 52, no. 10, pp. 10937-10947, Oct. 2022. [中科院 1区, JCR 1区, Top, IF: 11.8] \| [PDF]()
+- **Wentao Wu**, Yibo Zhang, Weidong Zhang*, and Wei Xie*, ''[Distributed Finite-Time Performance-Prescribed Time-Varying Formation Control of Autonomous Surface Vehicles with Saturated Inputs](),'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, vol. 266, pp. 12866, Oct. 2022. [中科院 2区, JCR 1区, Top, IF: 5.0] \| [PDF]() \| [Video-Sim]()
 
 - **Wentao Wu**, Yibo Zhang, Weidong Zhang*, and Wei Xie, ''Output-Feedback Finite-Time Safety-Critical Coordinated Control of Path-Guided Marine Surface Vehicles Based on Neurodynamic Optimization,'' IEEE Trans. Syst. Man, Cybern., Syst., vol. 53, no. 3, pp. 1788-1800, Sep. 2022. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF]() \| [Video-Sim]()
 
 - **Wentao Wu**, Zhouhua Peng*, Lu Liu, and Dan Wang, ''A General Safety-Certified Cooperative Control Architecture for Interconnected Intelligent Surface Vehicles with Applications to Vessel Train,'' *[IEEE Trans. Intell. Veh.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)*, vol. 7, no. 3, pp. 627-637, Sep. 2022. [中科院 2区, JCR 1区, IF: 8.2] \| [PDF]() \| [Video-Sim]()
 
-- **Wentao Wu**, Zhouhua Peng*, Dan Wang, Lu Liu, and Gan Nan, ''[Anti-Disturbance Leader–Follower Synchronization Control of Marine Vessels for Underway Replenishment Based on Robust Exact Differentiators](),'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, vol. 248, pp. 110686, 2022. [中科院 2区, JCR 1区, Top, IF: 5.0]() \| [PDF]()
+- **Wentao Wu**, Zhouhua Peng*, Dan Wang, Lu Liu, and Qing-Long Han*, ''Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results,'' IEEE Trans. Cybern., vol. 52, no. 10, pp. 10937-10947, Oct. 2022. [中科院 1区, JCR 1区, Top, IF: 11.8] \| [PDF]()
 
-- **Wentao Wu**, Yibo Zhang, Weidong Zhang*, and Wei Xie*, ''[Distributed Finite-Time Performance-Prescribed Time-Varying Formation Control of Autonomous Surface Vehicles with Saturated Inputs](),'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, vol. 266, pp. 12866, Oct. 2022. [中科院 2区, JCR 1区, Top, IF: 5.0] \| [PDF]() \| [Video-Sim]()
+- **Wentao Wu**, Zhouhua Peng*, Dan Wang, Lu Liu, and Gan Nan, ''[Anti-Disturbance Leader–Follower Synchronization Control of Marine Vessels for Underway Replenishment Based on Robust Exact Differentiators](),'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, vol. 248, pp. 110686, 2022. [中科院 2区, JCR 1区, Top, IF: 5.0]() \| [PDF]()
 
 - Yibo Zhang, **Wentao Wu**, and Weidong Zhang*, ''[Noncooperative Game-Based Cooperative Maneuvering of Intelligent Surface Vehicles Via Accelerated Learning-Based Neural Predictors](https://ieeexplore.ieee.org/abstract/document/9950329),'' *[IEEE Trans. Intell. Veh.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)*, vol. 8, no. 3, pp. 2212-2221, Mar. 2023. [中科院 2区, JCR 1区, IF: 8.2] \| [PDF](/assets/papers/SCI/ZhangYibo-2022-IEEE-TIV.pdf)
 
