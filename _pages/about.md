@@ -28,16 +28,16 @@ My research interest includes neural machine translation and computer vision. I 
 - **2014.09 - 2018.06**, I was a B.E. student at [School of Electrical and Electronic Engineering](https://www.seiee.sjtu.edu.cn/), [Harbin University of Science and Technology](http://www.hrbust.edu.cn/), Harbin, China. 
 
 # 💬 Recent News
-- *2023.12* &nbsp;🎉🎉 I was recognised as '**Research Talents**' in Sanya Yazhou Bay Science and Technology City!
+- *2023.12* &nbsp;👏👏 I was recognised as '**Research Talents**' in Sanya Yazhou Bay Science and Technology City!
 - *2023.12* &nbsp;🎉  One new paper has been accepted by **IEEE T-SMCA** (Link)!
 - *2023.12* &nbsp;🎉 One co-author new paper has been accepted by **OE** ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0029801822021497))!
-- *2023.11* &nbsp;🎉🎉  One conference paper was awarded by **Best Student Paper Nomination Award** of 7th CCSICC!
-- *2023.11* &nbsp;🎉🎉  I won the **national third prize** in the First Air Force Aviation Innovation Challenge in 2023!
-- *2023.11* &nbsp;🎉🎉  I have been awarded the **First-class Scholarship** for Ph.D. Students at SJTU Sanya Yazhou Bay Institute of DeepSea Science and Technology!
-- *2023.09* &nbsp;🎉🎉🎉 I have been awarded the **National Scholarship** for Ph.D. Students at Shanghai Jiao Tong University!
+- *2023.11* &nbsp;👏👏  One conference paper was awarded by **Best Student Paper Nomination Award** of 7th CCSICC!
+- *2023.11* &nbsp;👏👏  I won the **national third prize** in the First Air Force Aviation Innovation Challenge in 2023!
+- *2023.11* &nbsp;👏👏  I have been awarded the **First-class Scholarship** for Ph.D. Students at SJTU Sanya Yazhou Bay Institute of DeepSea Science and Technology!
+- *2023.09* &nbsp;👏👏👏 I have been awarded the **National Scholarship** for Ph.D. Students at Shanghai Jiao Tong University!
 - *2023.09* &nbsp;🎉  One new paper has been accepted by **IEEE T-ITS** ([Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979))!
 - *2023.08* &nbsp;🎉  One new paper has been accepted by **IEEE CAA/JAS** ([Link](https://www.ieee-jas.net/indexen.html))!
-- *2023.07* &nbsp;🎉🎉  I received the Chinese Government Scholarship to study abroad at the University of Victoria in Canada!
+- *2023.07* &nbsp;👏👏  I received the Chinese Government Scholarship to study abroad at the University of Victoria in Canada!
 - *2023.02* &nbsp;🎉  One co-author new paper has been accepted by **IEEE T-CSII** ([Link](https://ieeexplore.ieee.org/abstract/document/10059139))!
 - *2022.12* &nbsp;🎉  I won the **first prize** in the Hainan Free Trade Port Entrepreneurship Competition!
 - *2022.10* &nbsp;🎉  One co-author new paper has been accepted by IEEE **T-IV** ([Link](https://ieeexplore.ieee.org/abstract/document/9950329))!
@@ -142,8 +142,6 @@ My research interest includes neural machine translation and computer vision. I 
 - **Wentao Wu**, Zhouhua Peng, Lu Liu, and Dan Wang, ''[A General Safety-Certified Cooperative Control Architecture for Interconnected Intelligent Surface Vehicles with Applications to Vessel Train](https://ieeexplore.ieee.org/abstract/document/9762043),'' *[IEEE Trans. Intell. Veh.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)*, vol. 7, no. 3, pp. 627-637, Sep. 2022. [中科院 2区, JCR 1区, IF: 8.2] \| [PDF](/assets/papers/SCI/WuWentao-2022-IEEE-TIV.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2022-IEEE-TIV.mp4)
 
 - **Wentao Wu**, Zhouhua Peng, Dan Wang, Lu Liu, and Qing-Long Han*, ''[Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results](https://ieeexplore.ieee.org/abstract/document/9440777),'' *[IEEE Trans. Cybern.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)*, vol. 52, no. 10, pp. 10937-10947, Oct. 2022. [中科院 1区, JCR 1区, Top, IF: 11.8] \| [PDF](/assets/papers/SCI/WuWentao-2021-IEEE-TCYB.pdf)
-
-- ``NeurIPS 2021`` [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), **Yi Ren**, Jinglin Liu, Zhou Zhao, [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 
 - **Wentao Wu**, Zhouhua Peng, Dan Wang, Lu Liu, and Gan Nan, ''[Anti-Disturbance Leader–Follower Synchronization Control of Marine Vessels for Underway Replenishment Based on Robust Exact Differentiators](https://www.sciencedirect.com/science/article/abs/pii/S0029801822001445),'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, vol. 248, pp. 110686, 2022. [中科院 2区, JCR 1区, Top, IF: 5.0]() \| [PDF](/assets/papers/SCI/WuWentao-2022-OE.pdf)
 
