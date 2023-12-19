@@ -141,7 +141,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 ### Review Papers
-- 彭周华，**吴文涛**，王丹， 刘陆, "[多无人艇集群协同控制研究进展与未来趋势](http://zgjcyj.xml-journal.net/cn/article/doi/10.19693/j.issn.1673-3185.01923)," *[中国舰船研究](http://zgjcyj.xml-journal.net/index.htm)*, vol. 61, no. 1, pp. 51-64, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-Pengzhouhua-中国舰船研究.pdf)
+- ``2021/01`` 彭周华，**吴文涛**，王丹， 刘陆, "[多无人艇集群协同控制研究进展与未来趋势](http://zgjcyj.xml-journal.net/cn/article/doi/10.19693/j.issn.1673-3185.01923)," *[中国舰船研究](http://zgjcyj.xml-journal.net/index.htm)*, vol. 61, no. 1, pp. 51-64, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-Pengzhouhua-中国舰船研究.pdf)
 
 ### Journal Papers
 - ``2023/12`` **Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](),'' *[IEEE Trans. Syst. Man, Cybern. , Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*, Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
@@ -187,11 +187,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 ### Patents
 
-- **吴文涛**，张卫东，张义博，李镇华，李兰. 一种无人船容饱和预设性能船舶列车编队控制系统及方法[P]. 上海市：202311691127.8, 2023-12-11. [已受理]
+- ``2023/12[已受理]`` **吴文涛**，张卫东，张义博，李镇华，李兰. 一种无人船容饱和预设性能船舶列车编队控制系统及方法[P]. 上海市：202311691127.8, 2023-12-11. 
 
-- 张卫东，郑建文, **吴文涛**等. 一种基于领导者协同的多无人船编队的严格安全控制方法[P]. 上海市：CN115903800A,2023-04-04. [已公开]
+- ``2023/12[已公开]`` 张卫东，郑建文, **吴文涛**等. 一种基于领导者协同的多无人船编队的严格安全控制方法[P]. 上海市：CN115903800A,2023-04-04.
 
-- 王丹, 张宝, 孙邱越, 彭周华, 刘陆, 李铁山, **吴文涛**, 姜继州. 一种海洋机器人轨迹跟踪控制结构的设计方法[P]. 辽宁省：CN110262513B, 2022-01-28. [已授权]
+- ``2023/12[已授权]`` 王丹, 张宝, 孙邱越, 彭周华, 刘陆, 李铁山, **吴文涛**, 姜继州. 一种海洋机器人轨迹跟踪控制结构的设计方法[P]. 辽宁省：CN110262513B, 2022-01-28.
 
 # 🎖 Honors and Awards
 - *2023.12* &nbsp; 'Research Talent' at Sanya Yazhou Bay Science and Technology City
