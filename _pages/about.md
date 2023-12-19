@@ -131,6 +131,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Wentao Wu**, Zhouhua Peng*, Dan Wang, Lu Liu, and Qing-Long Han*, ''Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results,'' IEEE Trans. Cybern., vol. 52, no. 10, pp. 10937-10947, Oct. 2022. [中科院 1区, JCR 1区, Top, IF: 11.8] \| [PDF]()
 
+- ``NeurIPS 2021`` [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), **Yi Ren**, Jinglin Liu, Zhou Zhao, [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
+
 - **Wentao Wu**, Zhouhua Peng*, Dan Wang, Lu Liu, and Gan Nan, ''[Anti-Disturbance Leader–Follower Synchronization Control of Marine Vessels for Underway Replenishment Based on Robust Exact Differentiators](),'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, vol. 248, pp. 110686, 2022. [中科院 2区, JCR 1区, Top, IF: 5.0]() \| [PDF]()
 
 - Yibo Zhang, **Wentao Wu**, and Weidong Zhang*, ''[Noncooperative Game-Based Cooperative Maneuvering of Intelligent Surface Vehicles Via Accelerated Learning-Based Neural Predictors](https://ieeexplore.ieee.org/abstract/document/9950329),'' *[IEEE Trans. Intell. Veh.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)*, vol. 8, no. 3, pp. 2212-2221, Mar. 2023. [中科院 2区, JCR 1区, IF: 8.2] \| [PDF](/assets/papers/SCI/ZhangYibo-2022-IEEE-TIV.pdf)
