@@ -1,3 +1,5 @@
+<span class='anchor' id='news'></span>
+
 # 💬 Recent News
 - *2023.12* &nbsp;👏👏 I was recognised as '**Research Talents**' in Sanya Yazhou Bay Science and Technology City!
 - *2023.12* &nbsp;🎉  One new paper has been accepted by **IEEE T-SMCA** (Link)!
