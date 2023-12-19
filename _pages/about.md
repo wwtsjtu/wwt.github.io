@@ -96,14 +96,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-CYB 2021</div><img src='assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf)
+[Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results](/assets/papers/SCI/WuWentao-2021-IEEE-TCYB.pdf)
 
 **Wentao Wu**, Zhouhua Peng, Dan Wang, Lu Liu, and Qing-Long Han
 
-[PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
+[PDF](/assets/papers/SCI/WuWentao-2021-IEEE-TCYB.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
 
 - 
 - 
