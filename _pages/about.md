@@ -71,7 +71,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults](https://ieeexplore.ieee.org/document/10292769)
 
-**Wentao Wu**, Ruihang Ji, Weidong Zhang, and Yibo Zhang
+**Wentao Wu**, Ruihang Ji, Weidong Zhang, Yibo Zhang
 
 [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TITS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.mp4) \|
 
@@ -81,14 +81,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CAA/JAS 2023</div><img src='assets/Video/Video-Sim/WuWentao-2023-IEEE-JAS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf)
+[Safety-Critical Trajectory Tracking for Mobile Robots with Guaranteed Performance](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf)
 
-**Wentao Wu**, Di Wu, Yibo Zhang, Shukang Chen, and Weidong Zhang
+**Wentao Wu**, Di Wu, Yibo Zhang, Shukang Chen, Weidong Zhang
 
-[PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
+[PDF](/assets/papers/SCI/WuWentao-2023-IEEE-JAS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-JAS.mp4)
 
 - 
 - 
@@ -96,7 +96,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf)
