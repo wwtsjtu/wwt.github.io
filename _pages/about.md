@@ -96,6 +96,24 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+- **Wentao Wu**, Yibo Zhang, Weidong Zhang, and Wei Xie, ''[Output-Feedback Finite-Time Safety-Critical Coordinated Control of Path-Guided Marine Surface Vehicles Based on Neurodynamic Optimization](https://ieeexplore.ieee.org/abstract/document/9900363),'' *[IEEE Trans. Syst. Man, Cybern., Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*, vol. 53, no. 3, pp. 1788-1800, Sep. 2022. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF](/assets/papers/SCI/WuWentao-2022-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2022-IEEE-TSMCA.mp4)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2022</div><img src='assets/Video/Video-Sim/WuWentao-2022-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Output-Feedback Finite-Time Safety-Critical Coordinated Control of Path-Guided Marine Surface Vehicles Based on Neurodynamic Optimization](/assets/papers/SCI/WuWentao-2022-IEEE-TSMCA.pdf)
+
+**Wentao Wu**, Yibo Zhang, Weidong Zhang, Wei Xie
+
+[PDF](/assets/papers/SCI/WuWentao-2022-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2022-IEEE-TSMCA.mp4)
+
+- 
+- 
+- 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV 2022</div><img src='assets/Video/Video-Sim/WuWentao-2022-IEEE-TIV.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
