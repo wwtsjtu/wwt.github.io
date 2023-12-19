@@ -1,4 +1,4 @@
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='biography'></span>
 
 # 👨🏻‍🎓 Biography
 Wentao Wu, from Qiqihar, born in October 1995, received the B.E. degree in electrical engineering and automation from Harbin University of Science and Technology, Harbin, China, in 2018. He received the M.E. degree in electrical engineering from Dalian Maritime University, Dalian, China, in 2021. He is currently pursing the Ph.D. degree in electronic information from Shanghai Jiao Tong University, Shanghai, China. From 2023 to 2024, I am a Visiting Research Scholar at the Department of Mechanical Engineering, University of Victoria, BC, Canada.
