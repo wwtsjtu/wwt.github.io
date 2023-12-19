@@ -63,7 +63,51 @@ My research interest includes neural machine translation and computer vision. I 
 - 
 - 
 - 
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults](https://ieeexplore.ieee.org/document/10292769)
+
+**Wentao Wu**, Ruihang Ji, Weidong Zhang, and Yibo Zhang
+
+[PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TITS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.mp4) \|
+
+- 
+- 
+- 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf)
+
+**Wentao Wu**, Di Wu, Yibo Zhang, Shukang Chen, and Weidong Zhang
+
+[PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
+
+- 
+- 
+- 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-SMCA 2023</div><img src='/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf)
+
+**Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, Weidong Zhang*
+
+[PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
+
+- 
+- 
+- 
 </div>
 </div>
 
@@ -74,7 +118,9 @@ My research interest includes neural machine translation and computer vision. I 
 - **Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](),'' [IEEE Trans. Syst. Man, Cybern. , Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021), Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
 
 - Yibo Zhang, Di Wu, Peng Cheng, **Wentao Wu**, and Weidong Zhang*, ''Robust Adaptive Fault-tolerant Control for Path Maneuvering of Autonomous Surface Vehicles with Actuator Faults Based on the Noncooperative Game Strategy,'' Ocean. Eng., Dec. 2023, Accepted. [中科院 2区, JCR 1区, Top, IF: 5.0] \| [PDF]()
-- **Wentao Wu**, Ruihang Ji, Weidong Zhang*, and Yibo Zhang*, ''Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults,'' IEEE Trans. Intell. Transp. Syst., 2023, doi: 10.1109/TITS.2023.3324346. [中科院 1区, JCR 1区, Top, IF: 8.5] \| [PDF]() \| [Video-Sim]()
+
+- **Wentao Wu**, Ruihang Ji, Weidong Zhang*, and Yibo Zhang*, ''[Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults](https://ieeexplore.ieee.org/document/10292769),'' [IEEE Trans. Intell. Transp. Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), 2023, doi: 10.1109/TITS.2023.3324346. [中科院 1区, JCR 1区, Top, IF: 8.5] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TITS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.mp4)
+
 - **Wentao Wu**, Di Wu, Yibo Zhang*, Shukang Chen, and Weidong Zhang*, ''Safety-Critical Trajectory Tracking for Mobile Robots with Guaranteed Performance,'' IEEE/CAA J. Autom. Sinica, Aug. 2023, doi: 10.1109/JAS.2023.123864. [中科院 1区, JCR 1区, Top, IF: 11.8] \| [PDF]() \| [Video-Sim]() \| [Video-Expa]() \| [Video-Expb]()
 - **Wentao Wu**, Zhouhua Peng*, Dan Wang, Lu Liu, and Qing-Long Han*, ''Network-Based Line-of-Sight Path Tracking of Underactuated Unmanned Surface Vehicles with Experiment Results,'' IEEE Trans. Cybern., vol. 52, no. 10, pp. 10937-10947, Oct. 2022. [中科院 1区, JCR 1区, Top, IF: 11.8] \| [PDF]()
 - **Wentao Wu**, Yibo Zhang, Weidong Zhang*, and Wei Xie, ''Output-Feedback Finite-Time Safety-Critical Coordinated Control of Path-Guided Marine Surface Vehicles Based on Neurodynamic Optimization,'' IEEE Trans. Syst. Man, Cybern., Syst., vol. 53, no. 3, pp. 1788-1800, Sep. 2022. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF]() \| [Video-Sim]()
