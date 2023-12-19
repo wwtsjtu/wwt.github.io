@@ -84,11 +84,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CAA/JAS 2023</div><img src='assets/Video/Video-Sim/WuWentao-2023-IEEE-JAS.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Safety-Critical Trajectory Tracking for Mobile Robots with Guaranteed Performance](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf)
+[Safety-Critical Trajectory Tracking for Mobile Robots with Guaranteed Performance](/assets/papers/SCI/WuWentao-2023-IEEE-JAS.pdf)
 
 **Wentao Wu**, Di Wu, Yibo Zhang, Shukang Chen, Weidong Zhang
 
-[PDF](/assets/papers/SCI/WuWentao-2023-IEEE-JAS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-JAS.mp4)
+[PDF](/assets/papers/SCI/WuWentao-2023-IEEE-JAS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-JAS.mp4) \| [Video-Expa](/assets/Video/Video-Exp/WuWentao-2023-IEEE-JASa.mp4) \| [Video-Expb](/assets/Video/Video-Exp/WuWentao-2023-IEEE-JASb.mp4)
 
 - 
 - 
