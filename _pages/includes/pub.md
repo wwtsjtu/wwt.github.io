@@ -95,7 +95,7 @@
 - ``2021/01`` 彭周华，**吴文涛**，王丹， 刘陆, "[多无人艇集群协同控制研究进展与未来趋势](http://zgjcyj.xml-journal.net/cn/article/doi/10.19693/j.issn.1673-3185.01923)," *[中国舰船研究](http://zgjcyj.xml-journal.net/index.htm)*, vol. 61, no. 1, pp. 51-64, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-Pengzhouhua-中国舰船研究.pdf)
 
 ### Journal Papers
-- ``2023/12`` **Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](),'' *[IEEE Trans. Syst. Man, Cybern. , Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*, Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
+- ``2023/12`` **Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](https://mc.manuscriptcentral.com/systems),'' *[IEEE Trans. Syst. Man, Cybern. , Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*, Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
 
 - ``2023/12`` Yibo Zhang, Di Wu, Peng Cheng, **Wentao Wu**, and Weidong Zhang, ''Robust Adaptive Fault-tolerant Control for Path Maneuvering of Autonomous Surface Vehicles with Actuator Faults Based on the Noncooperative Game Strategy,'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, Dec. 2023, Accepted. [中科院 2区, JCR 1区, Top, IF: 5.0] \| [PDF]()
 
