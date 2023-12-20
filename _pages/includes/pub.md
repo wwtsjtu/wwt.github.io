@@ -97,7 +97,7 @@
 ### Journal Papers
 - ``2023/12`` **Wentao Wu**, Yibo Zhang, Zhenhua Li, Jun-Guo Lu, and Weidong Zhang*, ''[Constrained Safe Cooperative Maneuvering of Autonomous Surface Vehicles: A Control Barrier Function Approach](https://mc.manuscriptcentral.com/systems),'' *[IEEE Trans. Syst. Man, Cybern. , Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)*, Dec. 2023, Accepted. [中科院 1区, JCR 1区, Top, IF: 8.7] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TSMCA.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TSMCA.mp4)
 
-- ``2023/12`` Yibo Zhang, Di Wu, Peng Cheng, **Wentao Wu**, and Weidong Zhang, ''Robust Adaptive Fault-tolerant Control for Path Maneuvering of Autonomous Surface Vehicles with Actuator Faults Based on the Noncooperative Game Strategy,'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, Dec. 2023, Accepted. [中科院 2区, JCR 1区, Top, IF: 5.0] \| [PDF]()
+- ``2023/12`` Yibo Zhang, Di Wu, Peng Cheng, **Wentao Wu**, and Weidong Zhang, ''[Robust Adaptive Fault-tolerant Control for Path Maneuvering of Autonomous Surface Vehicles with Actuator Faults Based on the Noncooperative Game Strategy],'' *[Ocean. Eng.](https://www.sciencedirect.com/journal/ocean-engineering)*, Dec. 2023, Accepted. [中科院 2区, JCR 1区, Top, IF: 5.0] \| [PDF]()
 
 - ``2023/09`` **Wentao Wu**, Ruihang Ji, Weidong Zhang, and Yibo Zhang, ''[Transient-Reinforced Tunnel Coordinated Control of Underactuated Marine Surface Vehicles with Actuator Faults](https://ieeexplore.ieee.org/document/10292769),'' *[IEEE Trans. Intell. Transp. Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)*, 2023, doi: 10.1109/TITS.2023.3324346. [中科院 1区, JCR 1区, Top, IF: 8.5] \| [PDF](/assets/papers/SCI/WuWentao-2023-IEEE-TITS.pdf) \| [Video-Sim](/assets/Video/Video-Sim/WuWentao-2023-IEEE-TITS.mp4)
 
@@ -121,7 +121,7 @@
 
 - ``2021/01`` **吴文涛**, 彭周华*, 王丹, 刘陆, 姜继洲, 任帅, ''[基于扩张状态观测器的双桨推进无人艇抗干扰目标跟踪控制](http://www.ship-research.com/cn/article/doi/10.19693/j.issn.1673-3185.01665?viewType=HTML),'' *[中国舰船研究](http://zgjcyj.xml-journal.net/index.htm)*, vol. 61, no. 1, pp. 128-135, 2021. [PDF](/assets/papers/ZWHX/J-核心-2020-WuWentao-中国舰船研究a.pdf)
 
-- ``2020/09`` **吴文涛**，古楠，彭周华*，刘陆，王丹, ''[多领航者导引无人船集群的分布式时变队形控制](https://web.archive.org/web/20201126111532id_/http://html.rhhz.net/ZGJCYJ/html/2020-1-21.htm),'' *[中国舰船研究](http://zgjcyj.xml-journal.net/index.htm)*, vol. 15, no. 1, pp. 21-30, 2020. [PDF](/assets/papers/ZWHX/J-核心-2020-WuWentao-中国舰船研究b.pdf)
+- ``2020/09`` **吴文涛**，古楠，彭周华*，刘陆，王丹, ''[多领航者导引无人船集群的分布式时变队形控制](https://web.archive.org/web/20201126111532id_/http://html.rhhz.net/ZGJCYJ/html/2020-1-21.htm),'' [*中国舰船研究*](http://zgjcyj.xml-journal.net/index.htm), vol. 15, no. 1, pp. 21-30, 2020. [PDF](/assets/papers/ZWHX/J-核心-2020-WuWentao-中国舰船研究b.pdf)
 
 ### Conference Papers
 - ``2023/09`` **Wentao Wu**, Chenming Zhang, Zhenhua Li, Weidong Zhang, and Yibo Zhang, "Finite-time Extended State Observer-Based Performance-Critical Control for Uncertain MIMO Nonlinear Systems," 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control, Sept., 2023. [**<span style="color:red">Best Student Paper Nomination Award</span>**] \| [PDF](/assets/papers/EI/2023-CCSICC.pdf)
